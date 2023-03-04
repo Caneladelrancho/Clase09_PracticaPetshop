@@ -45,3 +45,105 @@
   padding: 20px;
   text-align: center;
 }
+
+.comederos {
+  text-align: center;
+  font-size: 16px;
+  margin-top: 15px;
+}
+
+.imagen-fondo {
+  background-image: url(../img/bowl-and-pet-daities-on-green-background\ 1.png);
+  height: 70vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+ 
+}
+
+.Comederos2 {
+
+  text-align: center;
+  font-size: 16px;
+  color: white;
+  background-color: #F0A83E;    
+  margin: auto;
+  width: 100px;
+  margin-top: 30px;
+
+}
+
+.productos{
+  font-size: 40px;
+  margin-top: 55px;
+  color: #3c2313;
+}
+
+.comeyacce{
+  margin-top: 35px;
+  font-size: 15px;
+  
+}
+
+.picture{
+  margin-top: 15px;
+}
+
+
+.Juguete{
+  font-size: 20px;
+  color: #3c2313;
+  margin-top: 15px;
+}
+
+.precio{
+  font-size: 15px;
+  color: #F0A83E;
+  margin-top: 15px;
+}
+
+/* contacto */
+
+.contacto{
+  background-color: #3c2313;
+}
+
+li{
+  margin-top: 20px;
+
+}
+
+.contactinfo{
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.info{
+  font-size: 10px;
+  color: #8a8787;
+  
+}
+
+.bottomlogo{
+  margin-top: 20px;
+
+}
+
+.texto-logo-bottom{
+  color: white;
+  font-weight: bold;
+  
+}
+
+.bottomlogo{
+  color: #F0A83E;
+}
+
+/* footer */
+
+.footer{
+  background-color: #F0A83E;
+  margin-top: 15px;
+  color: white;
+  text-align: center;
+}
